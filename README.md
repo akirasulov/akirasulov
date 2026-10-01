@@ -145,8 +145,8 @@ Backend and frontend systems integrating external services, authentication provi
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akirasulov&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akirasulov&layout=compact&hide_border=true" height="170" />
 </p>
 
 ---
@@ -154,10 +154,11 @@ Backend and frontend systems integrating external services, authentication provi
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/akirasulov">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+
+  <a href="https://www.linkedin.com/in/akmal-rasulov-23112a334/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
